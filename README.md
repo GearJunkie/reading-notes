@@ -16,3 +16,6 @@ To me, growth mindset is the ability to adapt and overcomve challenges and obsta
 
 ### Markdown
 1. Is a *lightweight language* with **HTML-like** properties, used to format text on the Web.
+2. '''
+3. and allows the use of special characters to change the format.
+4. '''
