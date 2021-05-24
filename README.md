@@ -4,7 +4,7 @@ This is my reading notes repo to track all of my reading notes.
 
 ## About Me
 
-My name is Jesse. I am a student at CodeFellows.
+My name is Jesse. I am a new student at CodeFellows.
 
 ### Growth Mindset
 
@@ -14,6 +14,5 @@ To me, growth mindset is the ability to adapt and overcomve challenges and obsta
 - Practice what you learn
 - Collaborate with others
 
-### This is a Heading 3
-#### This is a Heading 4
-###### This is a Heading 6
+### Markdown
+1. Is a >lightweight language< with **HTML-like** properties, used to format text on the Web.
