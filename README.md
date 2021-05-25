@@ -9,6 +9,6 @@ My name is Jesse. I am a new student at CodeFellows. To me, growth mindset is th
 
 #Table of Contents
 
-[Reading Notes 1 - Learning Markdown](markdown.md)
-[Reading Notes 2 - The Coder's Computer](coderscomputer.md)
-[Reading Notes 3 - Revisions and the Cloud](revisionscloud.md)
+- [Reading Notes 1 - Learning Markdown](markdown.md)
+- [Reading Notes 2 - The Coder's Computer](coderscomputer.md)
+- [Reading Notes 3 - Revisions and the Cloud](revisionscloud.md)
