@@ -7,7 +7,7 @@ My name is Jesse. I am a new student at CodeFellows. To me, growth mindset is th
   - Practice what you learn
   - Collaborate with others# Reading Notes for CodeFellows
 
-#This is my reading notes repo to track all of my reading notes.
+#Table of Contents
 
 [Reading Notes 1 - Learning Markdown](markdown.md)
 [Reading Notes 2 - The Coder's Computer](coderscomputer.md)
