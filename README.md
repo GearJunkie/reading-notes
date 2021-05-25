@@ -22,3 +22,5 @@ This is a coding language that I'm learning to use in GitHub to format text used
 
 ### Text Editor
 
+Text editors allow a coder to organize their work, as well as perform their work more efficiently. Be sure to check out my text editor page below.
+- [Text Editor](texteditor.md)
