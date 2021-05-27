@@ -15,3 +15,5 @@ My name is Jesse. I am a new student at CodeFellows. To me, growth mindset is th
 - [Reading Notes 2 - The Coder's Computer](coderscomputer.md)
 - [Reading Notes 3 - Revisions and the Cloud](revisionscloud.md)
 - [Reading Notes 4 - Structure Web Pages With HTML](structure-web-pages-with-html.md)
+- [Reading Notes 5 - Design Web Pages with CSS](design-css.md)
+- [Reading Notes 6 - Dynamic Web Pages with Javascript](dynamic-js.md)
